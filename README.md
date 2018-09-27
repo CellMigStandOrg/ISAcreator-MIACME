@@ -3,7 +3,11 @@ A package of the [ISAcreator tool](http://github.com/ISA-tools/ISAcreator) inclu
 
 https://bitbucket.org/agbeltran/isatools-downloads/downloads/ISAcreator-1.7.12-miacme.zip
 
-To run the tool, you will need Java installed in your system. Unzip the file and execute the **ISAcreator.jar** file (you can double-click the file). 
+To run the tool, you will need Java installed in your system. Unzip the file and execute the **ISAcreator.jar** file (you can double-click the file). If you want to run the tool from the command line, use:
+
+```
+java -cp ISAcreator.jar org.isatools.isacreator.launch.ISAcreatorApplication
+```
 
 For documentation about ISAcreator, please see:
 - [ISAcreator user manual](http://isatab.sourceforge.net/isahelp/ch04.html)
