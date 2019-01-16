@@ -12,3 +12,8 @@ java -cp ISAcreator.jar org.isatools.isacreator.launch.ISAcreatorApplication
 For documentation about ISAcreator, please see:
 - [ISAcreator user manual](http://isatab.sourceforge.net/isahelp/ch04.html)
 - [ISAcreator video tutorial](https://www.youtube.com/watch?v=abIEtSUrJNY)
+
+
+You can also download the configuration files for MIACME 1.0 themselves:
+- https://bitbucket.org/agbeltran/isatools-downloads/downloads/isaconfig-MIACMEv1.0-multiassay-20181017.zip
+- https://bitbucket.org/agbeltran/isatools-downloads/downloads/isaconfig-MIACMEv1.0-20181017.zip
